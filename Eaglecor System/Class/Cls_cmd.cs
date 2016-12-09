@@ -7,7 +7,6 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using MetroFramework;
 using System.Configuration;
-using Eaglecor_System.Forms;
 
 namespace Eaglecor_System.Class
 {
