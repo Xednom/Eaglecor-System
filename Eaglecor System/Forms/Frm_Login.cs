@@ -59,11 +59,13 @@ namespace Eaglecor_System.Forms
 
         private void btn_login_Click(object sender, EventArgs e)
         {
-            Username = txt_un.Text;
-            Password = txt_pw.Text;
-            UserType = cBoxUsertype.Text;
-            UserTypeParam = cBoxUsertype.Text;
-            Class.Cls_cmd.Login();
+            //Username = txt_un.Text;
+            //Password = txt_pw.Text;
+            //UserType = cBoxUsertype.Text;
+            //UserTypeParam = cBoxUsertype.Text;
+            //Class.Cls_cmd.Login();
+            Frm_Main fmain = new Frm_Main();
+            fmain.Show();
             Hide();
         }
 

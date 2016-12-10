@@ -131,7 +131,7 @@
             // metroTile7
             // 
             this.metroTile7.ActiveControl = null;
-            this.metroTile7.Location = new System.Drawing.Point(34, 612);
+            this.metroTile7.Location = new System.Drawing.Point(251, 162);
             this.metroTile7.Name = "metroTile7";
             this.metroTile7.Size = new System.Drawing.Size(200, 84);
             this.metroTile7.TabIndex = 10;
