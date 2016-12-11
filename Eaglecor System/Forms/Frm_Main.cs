@@ -129,5 +129,11 @@ namespace Eaglecor_System.Forms
             fpersonel.ShowDialog();
 
         }
+
+        private void metroTile9_Click(object sender, EventArgs e)
+        {
+            Frm_Facilities ffacilities = new Frm_Facilities();
+            ffacilities.ShowDialog();
+        }
     }
 }

@@ -22,5 +22,11 @@ namespace Eaglecor_System.Forms
         {
 
         }
+
+        private void metroButton1_Click(object sender, EventArgs e)
+        {
+            Frm_PLDT fpldt = new Frm_PLDT();
+            fpldt.ShowDialog();
+        }
     }
 }

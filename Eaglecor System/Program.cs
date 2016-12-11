@@ -17,7 +17,7 @@ namespace Eaglecor_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Login());
+            Application.Run(new Frm_PLDT());
         }
     }
 }
